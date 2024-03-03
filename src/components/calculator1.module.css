@@ -1,0 +1,9 @@
+.display{
+    margin:10px;
+    width: 355px;
+    height: 80px;
+    font-size: 25px;
+    border-radius: 10px;
+    background-color: rgb(169, 162, 162);
+    font-weight: 600;
+}

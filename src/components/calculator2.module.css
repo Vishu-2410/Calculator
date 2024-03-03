@@ -1,0 +1,39 @@
+.buttonContainer{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.buttonContainer :nth-child(1){
+    background-color: aqua;
+    width: 160px;
+}
+.buttonContainer :nth-last-child(1){
+    background-color: aqua;
+    width: 150px;
+}
+.buttonContainer :nth-child(2){
+    background-color: aqua;
+    width:90px;
+}
+.buttonContainer :nth-child(3){
+    background-color: aqua;
+}
+.buttonContainer :nth-child(7){
+    background-color: aqua;
+}
+.buttonContainer :nth-child(11){
+    background-color: aqua;
+}
+.buttonContainer :nth-child(15){
+    background-color: aqua;
+}
+
+.button{
+    width: 75px;
+    height: 75px;
+    margin: 8px;
+    border-radius: 10px;
+    font-size: 25px;
+    font-weight: 700;
+    background-color: rgb(184, 172, 172);
+}
